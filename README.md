@@ -4,9 +4,9 @@
 
 ## 💨 Run the projects
 
-Glitch: [![Remix on Glitch.me](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/super-music-bot-by-niro)
+Glitch: [![Remix on Glitch.me](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/super-music-bot-by-nir0)
 
-Replit: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/@NIR0/super-music-bot-by-niro)
+Replit: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/@NIR0/super-music-bot-by-nir0)
 
 ## ✨ Mad By
 
