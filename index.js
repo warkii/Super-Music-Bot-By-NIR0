@@ -6,6 +6,13 @@
  * Our Repl.it : https://repl.it/@NIR0
  */
 
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => res.send(`All Copyright Go's To : @ニロ#3892`))
+app.listen(port, () => console.log(`All Copyright Go's To : @ニロ#3892`))
+
 const { Client, Collection } = require("discord.js");
 const { readdirSync } = require("fs");
 const { join } = require("path");
